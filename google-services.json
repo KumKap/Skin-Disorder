@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1073295125730",
+    "firebase_url": "https://dermezy.firebaseio.com",
+    "project_id": "dermezy",
+    "storage_bucket": "dermezy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073295125730:android:faeb4ff35d71c090",
+        "android_client_info": {
+          "package_name": "com.example.derm_ezy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073295125730-6adm08ohdeqvb49i6c8oq5erfi3n2h4s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.derm_ezy",
+            "certificate_hash": "e8fe3d7929266056c161ebea549ea339f0db3dcd"
+          }
+        },
+        {
+          "client_id": "1073295125730-9jl8g64p34a9c6ifphdrvl47dur344gf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcorvexLs-hd3X-mWiM72wuQZJCbDzFUs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073295125730-9jl8g64p34a9c6ifphdrvl47dur344gf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
